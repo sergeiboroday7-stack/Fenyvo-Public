@@ -1,5 +1,7 @@
 # FENYVO
 
+[Русская версия](README_RU.md)
+
 Private messaging. Modern communication.
 
 FENYVO is a messenger for Android and Windows.
