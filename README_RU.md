@@ -1,6 +1,6 @@
 # FENYVO
 
-[English version](README.md)
+[English](README.md) | [Українська](README_UK.md) | [Русская](README_RU.md)
 
 **Мессенджер для Android и Windows**
 

@@ -1,6 +1,6 @@
 # FENYVO
 
-[Русская версия](README_RU.md)
+[English](README.md) | [Українська](README_UK.md) | [Русская](README_RU.md)
 
 Private messaging. Modern communication.
 
